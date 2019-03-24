@@ -6,6 +6,6 @@ function happyHolidaysTo(name){
   return 'Happy holidays, you!'
 }
 
-function happyHolidayTo(holiday, name){
-  return 'It\'s 20 days
+function happyHolidayTo(days, holiday){
+  return 'It\'s ${days} days until ${holiday}!'
 }
