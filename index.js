@@ -7,5 +7,5 @@ function happyHolidaysTo(name){
 }
 
 function happyHolidayTo(holiday, name){
-  return ''
+  return 'It\'s 20 days
 }
